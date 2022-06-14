@@ -39,3 +39,6 @@ Source:
 
 * Syllabus Certified Tester ISTQB
 * [Exploratory testing - Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/exploratory-testing)
+
+---
+[Come back to *main* branch](https://github.com/isabelyb/QA-Assesment/tree/main)
