@@ -23,7 +23,7 @@ Test cases in `Gherkin` for "Cantidad de Empresas" section:
 
 It is possible to do all in one test using an `Scenario outline`:
 
-* [By Companies - Scenario outline](testCases/byCompanies.online.feature)
+* [By Companies - Scenario outline](testCases/byCompanies.outline.feature)
 
 ## Bugs Reports
 
