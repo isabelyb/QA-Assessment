@@ -12,23 +12,26 @@ import {
 import { ITestCaseHookParameter } from '@cucumber/cucumber/lib/support_code_library_builder/types';
 import { ensureDir } from 'fs-extra';
 
-let browser: FirefoxBrowser | WebKitBrowser;
+let browser: ChromiumBrowser | FirefoxBrowser | WebKitBrowser;
 const tracesDir = 'traces';
 
 declare global {
   // eslint-disable-next-line no-var
-  var browser: FirefoxBrowser | WebKitBrowser;
+  var browser: ChromiumBrowser | FirefoxBrowser | WebKitBrowser;
 }
 
 setDefaultTimeout(process.env.PWDEBUG ? -1 : 60 * 1000);
 
 BeforeAll(async function () {
   switch (config.browser) {
+    case 'firefox':
+      browser = await firefox.launch(config.browserOptions);
+      break;
     case 'webkit':
       browser = await webkit.launch(config.browserOptions);
       break;
     default:
-      browser = await firefox.launch(config.browserOptions);
+      browser = await chromium.launch(config.browserOptions);
   }
   await ensureDir(tracesDir);
 });

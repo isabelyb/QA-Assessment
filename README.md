@@ -18,4 +18,12 @@ QA Manual and QA Automation
 6. 1pom  - Project Object Model 
 7. support directory
 8. utils directory
+9. cucumber.js
+10. reports + git ignore
+11. Feature
+12. steps
+
+
+
+
 
