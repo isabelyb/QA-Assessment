@@ -24,6 +24,9 @@ QA Manual and QA Automation
 12. steps
 13. mvp de todos las test
 14. modularizar codigo y ajustar issues
+15. Refactorizar código
+16. Update documentation
+
 
 
 
