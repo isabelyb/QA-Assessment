@@ -22,7 +22,8 @@ QA Manual and QA Automation
 10. reports + git ignore
 11. Feature
 12. steps
-
+13. mvp de todos las test
+14. modularizar codigo y ajustar issues
 
 
 

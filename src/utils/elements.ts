@@ -7,7 +7,7 @@ import { replace } from 'lodash';
  * @param {string} url
  */
 export async function navigate(page: Page, url: string) {
-  await page.goto(url);
+  await page.goto(url, { waitUntil: 'networkidle' });
 }
 
 /**
