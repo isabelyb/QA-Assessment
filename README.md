@@ -63,14 +63,25 @@ This is the file structure in this repository, according to the project to test,
 14. Fix issues
 15. Refactor code
 16. Fix issues
-17. Update documentation
+17. Try in my local machine. Reproducing all the steps from the beginning to assure that it works
+18. Update documentation
 
 ## To run in local
 
- 1. Clone repository
- 2. npm install
- 3. Run test
- 4. Run report
+ 1. Clone repository `git clone git@github.com:isabelyb/QA-Assesment.git` or `git clone https://github.com/isabelyb/QA-Assesment.git`
+ 2. Switch to automation branch `git checkout automation`
+ 3. Install dependencies `npm install` and **fix all vulnerabilities before run tests**
+ 4. Configure nvm version `nvm use v14.19.1`
+ 5. Run tests: There are two Scenarios Outline  
+
+    5.1. `Look for a topic` to test the first part in the search feature. There are 4 examples to run. Three with happy path.
+
+    5.2. `Look for a post` to test the second part in the blog page. There are 4 examples to run. Three with happy path.
+
+    * `npm run test` runs all tests
+    * `PWDEBUG=0 npx cucumber-js --name <Scenario>` run the single scenario without debug feature
+    * `PWDEBUG=1 npx cucumber-js --name <Scenario>` run the single scenario with debug feature
+ 6. Run report `npm run report`
 
 
 
