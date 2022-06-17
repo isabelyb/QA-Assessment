@@ -107,3 +107,8 @@ dist
 # pdf files
 
 *.pdf
+
+#reports
+reports/*.html
+reports/*.json
+traces/
