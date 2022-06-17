@@ -39,6 +39,7 @@ This is the file structure in this repository, according to the project to test,
  * To **run this project in local**, follow the instructions [here](https://github.com/isabelyb/QA-Assesment/tree/automation#to-run-in-local)
 
  * [**Issues** here](https://github.com/isabelyb/QA-Assesment/issues)
+ ![issues](assets/issues.png)
  
  ## Steps to do the assesment
 
