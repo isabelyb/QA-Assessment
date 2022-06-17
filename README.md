@@ -1,22 +1,22 @@
-# QA Assesment
+# Nest QA Assesment
 
-This repo is for documtatate the assesment in Nest at patagonian
-
+This repository is the documentation of the assesment process at Patagonian Nest Program.
 In order to organize the information, it is divided in three branches:
 
-* Main for general
-    To explain directions a the general porpouse
+![tree directory](assets/tree.png)
 
-* Manual:
+## 1. Main Branch
+To explain general directions in this documentation.
+There are no important files, but is the access to the manual and automation branches.
 
-To see the solution to the Manual Testing tasks:
+## 2. Manual Branch
 
-Gherkin files and url to atasian to reports bugs
+There are the `Gherkin files` with the **test cases** and the Manual Testing documentation, part of this assessment.
 
-[Manual branch](https://github.com/isabelyb/QA-Assesment/tree/manual)
+➡️ [Here the Manual branch](https://github.com/isabelyb/QA-Assesment/tree/manual)
 
-* Automation
+## 3. Automation Branch
 
-To read instructions to run the scripts in the Automation Testing
+There is the automation project and the instructions to do the automation testing, part of this assessment.
 
-[Automation branch](https://github.com/isabelyb/QA-Assesment/tree/automation)
+➡️ [Here the Automation branch](https://github.com/isabelyb/QA-Assesment/tree/automation)
