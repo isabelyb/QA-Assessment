@@ -85,4 +85,8 @@ This is the file structure in this repository, according to the project to test,
  6. Run report `npm run report`
 
 
+ ---
+[Come back to *main* branch](https://github.com/isabelyb/QA-Assesment/tree/main)
+
+
 
