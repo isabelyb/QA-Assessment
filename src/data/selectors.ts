@@ -1,5 +1,3 @@
-
-
 export const searching = {
     search: '#home-public > div > header > nav > div.NewSearch.NewSearch--noLogged > form > div > input',
     searchButton: '.NewSearch-button > svg:nth-child(1)',
@@ -7,6 +5,10 @@ export const searching = {
     sandwich: '.fa-bars > path:nth-child(1)',
     blogSearch: '.form-control',
     blogSearchButton: '.Search-icon > input:nth-child(1)',
+    courseOpinions: '.CourseExtraInfo-content-opinions',
+    courseTitle: '.Hero-content-title',
+    firstCourseResult: 'article.CourseCard:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > h3:nth-child(1)',
+    coursesTab: '.Tab:nth-child(1)',
   };
 
 

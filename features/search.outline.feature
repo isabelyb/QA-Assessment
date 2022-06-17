@@ -9,7 +9,8 @@ Feature: Search
     Then the topic should be shown in the results
 
     Examples:
-        | topic   |
-        | English |
-        | dsfdsfd |
-        | testing |
+        | topic      |
+        | golang     |
+        | typescript |
+        | dsfdsfd    |
+        | testing    |
