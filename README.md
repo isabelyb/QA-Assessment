@@ -60,11 +60,12 @@ A friendly message can be a difference in perception of the cient with the produ
 
 * In the CLN project, were found two situations that did not permit a complete testing process in the designated time:
 
-    * First, the cache that works intermintente,  doing dificult to test the site because of the availability.
+    * First, the cache works intermittently, doing difficult to test the website because of its availability.
 
-    * Second, an iterative website is necesarioto to maintain the testing, but it is important to accord with tester in order not to lost time., in this case this is an excesice and there is not a relevant consecuencies but in the produtive case the many representes lost of resourses.
+    * Second, an iterative website needs to maintain the testing processes, but it is important to accord with the development team the times for these tasks. In this case, this is an exercise and there are no relevant consequences but in the productive day-to-day, this situation can represent a loss of resources as the tester time, in other words, money.
 
-    * Despite, those dificulties the site was tested and  its Numbers are very important to take desitions this is the most m¿important feature and it is absolutly necesary to acomplisht with the clinet requierment because a little representation in the data cab be a bias in the desition takin process.
+    * Despite, those difficulties the site was tested and the dashboard analyzed and some findings were  encountered. 
+    Numbers are fundamental to make decisions, this is an important feature, and it is necessary to comply the client's requirement because a a difference in the data-visualization can become a bias to affect in the decision taking process.
 
 * It is very important to have evidence of all findigs found, to permit its reproducibility, and in consequence to work in the solution o improvement.
 
