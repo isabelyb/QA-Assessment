@@ -43,17 +43,22 @@ It is possible to do all in one test using an `Scenario outline`:
 
 This is the entire file with the bug reports: 
 
-🐞 [Here the entire bug reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)
+### 🐞 [Here the entire bug reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)
 
 
 ## 4. Improvements to the dashboard
 
-✨ [Here the entire improvement reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)
+Improvements are findings encountered in the exploratory test, that not block the use of the product. But fix them improve the quality of the product.
 
-* **Error 503:** Thisi is a very common situation with this website, that is mean the user watch this screen a
-lot of times, and this screen doesnt mean any thing.
-A friendly message can be a difference in perception of the cient with the product.
-![Error503 image](assets/error503.png)
+![improvement report](assets/improvements.png)
+
+### ✨ [Here the entire improvement reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)  
+
+
+![Error503 image](assets/error503.png)  
+  
+
+**Error 503:** This is a very common situation with this website, that is mean the user watch this screen a lot of times. A friendly message can be a difference in product perception of the client.
 
 ## 5. Conclusions
 * Exploratory testing is the principal technique when the documentation is not enough to know the application and when it is necessary to complement the testing process.
