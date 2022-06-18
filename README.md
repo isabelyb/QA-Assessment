@@ -41,10 +41,11 @@ It is possible to do all in one test using an `Scenario outline`:
 
 ## 3. Bug Reports
 
-This is the entire file with the bug reports: 
+Most of the time, finding Bugs in testing process means that those situations wont reach the client and the development team can fix them before release a product. 
+
+![bug reports](assets/bugs.png)
 
 ### 🐞 [Here the entire bug reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)
-
 
 ## 4. Improvements to the dashboard
 
