@@ -7,7 +7,7 @@ Credentials for this test are not shared in this repository.
 ## Files in this repository
 
 The files in this repository are organized as shown in the image below.
-Bug reports are in a public `Spreadsheet` file, share in the [Bug Report section](https://github.com/isabelyb/QA-Assesment/tree/manual#3-bug-reports).
+Bug reports are in a public `Spreadsheet` file, share in the [Bug Report section](https://github.com/isabelyb/QA-Assessment/tree/manual#3-bug-reports).
 
 ![files tree](assets/tree.png)
 
@@ -78,4 +78,4 @@ Improvements are findings encountered in the exploratory test, that not block th
 * Finally, but not less important it is to understand the objective of every tester is orienting their actions to guarantee, in the possible, the product complies with the client and design requirements, and finally, the product serves for the reason has been created.
 
 ---
-[Come back to *main* branch](https://github.com/isabelyb/QA-Assesment/tree/main)
+[Come back to *main* branch](https://github.com/isabelyb/QA-Assessment/tree/main)
