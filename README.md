@@ -6,6 +6,9 @@ Credentials for this test are not shared in this repository.
 
 ## Files in this repository
 
+The files in this repository are organized as shown in the image below.
+Bug reports are in a public `Spreadsheet` file, share in the [Bug Report section](https://github.com/isabelyb/QA-Assesment/tree/manual#3-bug-reports).
+
 ![files tree](assets/tree.png)
 
 # Tester requirements
