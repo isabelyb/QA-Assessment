@@ -34,14 +34,14 @@ This is the file structure in this repository, according to the project to test,
 ![error in terminal](assets/error1.png) 
 ![error in report](assets/error2.png) 
 
- * **Commits:** to see this repository commits go [here](https://github.com/isabelyb/QA-Assesment/commits/automation)
+ * **Commits:** to see this repository commits go [here](https://github.com/isabelyb/QA-Assessment/commits/automation)
 
- * To **run this project in local**, follow the instructions [here](https://github.com/isabelyb/QA-Assesment/tree/automation#to-run-in-local)
+ * To **run this project in local**, follow the instructions [here](https://github.com/isabelyb/QA-Assessment/tree/automation#to-run-in-local)
 
- * [**Issues** here](https://github.com/isabelyb/QA-Assesment/issues)
+ * [**Issues** here](https://github.com/isabelyb/QA-Assessment/issues)
  ![issues](assets/issues.png)
  
- ## Steps to do the assesment
+ ## Steps to accomplish the Assessment
 
 1. Read the problem
 2. Do Exploratory Testing
@@ -58,8 +58,8 @@ This is the file structure in this repository, according to the project to test,
     * Make directories
     * `npm init` to configure `package.json`
     * `npm install` to install dependencies
-8. Write [Test Cases](https://github.com/isabelyb/QA-Assesment/tree/automation/features) in `Gherkin` Syntaxis
-9. Write [steps and scripts](https://github.com/isabelyb/QA-Assesment/tree/automation/src) in `Typescript`
+8. Write [Test Cases](https://github.com/isabelyb/QA-Assessment/tree/automation/features) in `Gherkin` Syntaxis
+9. Write [steps and scripts](https://github.com/isabelyb/QA-Assessment/tree/automation/src) in `Typescript`
 13. Run tests
 14. Fix issues
 15. Refactor code
@@ -69,7 +69,7 @@ This is the file structure in this repository, according to the project to test,
 
 ## To run in local
 
- 1. Clone repository `git clone git@github.com:isabelyb/QA-Assesment.git` or `git clone https://github.com/isabelyb/QA-Assesment.git`
+ 1. Clone repository `git clone git@github.com:isabelyb/QA-Assessment.git` or `git clone https://github.com/isabelyb/QA-Assessment.git`
  2. Switch to automation branch `git checkout automation`
  3. Install dependencies `npm install` and **fix all vulnerabilities before run tests**
  4. Configure nvm version `nvm use v14.19.1`
@@ -86,7 +86,7 @@ This is the file structure in this repository, according to the project to test,
 
 
  ---
-[Come back to *main* branch](https://github.com/isabelyb/QA-Assesment/tree/main)
+[Come back to *main* branch](https://github.com/isabelyb/QA-Assessment/tree/main)
 
 
 

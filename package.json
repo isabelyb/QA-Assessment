@@ -1,7 +1,7 @@
 {
-  "name": "qa-assesment",
+  "name": "qa-assessment",
   "version": "1.0.0",
-  "description": "This is the Assesment for Nest Program at Patagonian",
+  "description": "This is the Assessment for Nest Program at Patagonian",
   "main": "index.js",
   "scripts": {
     "api": "DEBUG=pw:api cucumber-js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isabelyb/QA-Assesment.git"
+    "url": "git+https://github.com/isabelyb/QA-Assessment.git"
   },
   "keywords": [
     "QA_Automation",
@@ -38,9 +38,9 @@
   "author": "Isabel Yepes - isabely",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isabelyb/QA-Assesment/issues"
+    "url": "https://github.com/isabelyb/QA-Assessment/issues"
   },
-  "homepage": "https://github.com/isabelyb/QA-Assesment#readme",
+  "homepage": "https://github.com/isabelyb/QA-Assessment#readme",
   "dependencies": {
     "@cucumber/cucumber": "7.3.2",
     "@cucumber/html-formatter": "18.0.0",
