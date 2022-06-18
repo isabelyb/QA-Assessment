@@ -1,6 +1,12 @@
 # Manual Testing
 
-Dashboarb 
+Apply Manual Testing to the Indicator Dashboard feature of **Compra Lo Nuestro**, a White Label of Connect Americas. In order to verify that is according to the created and comply with the client requirements.
+
+Credentials for this test are not shared in this repository.
+
+## Files in this repository
+
+![files tree](assets/tree.png)
 
 # Tester requirements
 
@@ -25,19 +31,23 @@ It is possible to do all in one test using an `Scenario outline`:
 
 * [By Companies - Scenario outline](testCases/byCompanies.outline.feature)
 
-## Bugs Reports
+## 3. Bug Reports
 
-URL and images
-Clickup  / Jira?
+This is the entire file with the bug reports: 
+
+🐞 [Here the bug reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)
 
 
-## Improvements to the dashboard
+## 4. Improvements to the dashboard
+
+
+## 5. Conclusions
 
 
 
 Source:
 
-* Syllabus Certified Tester ISTQB
+* [Foundation Level (CTFL) Syllabus - ISTQB](https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf)
 * [Exploratory testing - Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/exploratory-testing)
 
 ---
