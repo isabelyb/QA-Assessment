@@ -44,6 +44,7 @@ It is possible to do all in one test using an `Scenario outline`:
 Most of the time, finding Bugs in testing process means that those situations wont reach the client and the development team can fix them before release a product. 
 
 ![bug reports](assets/bugs.png)
+![bug11](assets/bug11.png)
 
 ### 🐞 [Here the entire bug reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)
 
@@ -52,19 +53,16 @@ Most of the time, finding Bugs in testing process means that those situations wo
 Improvements are findings encountered in the exploratory test, that not block the use of the product. But fix them improve the quality of the product.
 
 ![improvement report](assets/improvements.png)
+![Error503 image](assets/improvement12.png)  
+**Error 503:** This is a very common situation with this website, that is mean the user watch this screen a lot of times. A friendly message can be a difference in product perception of the client.
 
 ### ✨ [Here the entire improvement reports](https://docs.google.com/spreadsheets/d/1u1QKv56hdA59uOP3MtTf8VhnrHuEM0kol_1WWiRWHFI/edit?usp=sharing)  
 
 
-![Error503 image](assets/error503.png)  
-  
-
-**Error 503:** This is a very common situation with this website, that is mean the user watch this screen a lot of times. A friendly message can be a difference in product perception of the client.
-
 ## 5. Conclusions
 * Exploratory testing is the principal technique when the documentation is not enough to know the application and when it is necessary to complement the testing process.
 
-* In the CLN project, were found two situations that did not permit a complete testing process in the designated time:
+* In the CLN project, two situations were found that did not permit a complete testing process in the designated time:
 
     * First, the cache works intermittently, doing difficult to test the website because of its availability.
 
