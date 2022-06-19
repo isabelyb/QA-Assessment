@@ -29,6 +29,10 @@ This is the file structure in this repository, according to the project to test,
 
   ![HTML report](assets/report.png)
  
+  ![searchReport](assets/reportSearch.png)
+
+  ![blogReport](assets/reportBlog.png)
+  
 * **Errors:** Error are managed by `try - catch` and are reported in the terminal and in the HTML report.  
 
 ![error in terminal](assets/error1.png) 
